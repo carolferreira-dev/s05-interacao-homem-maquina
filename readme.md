@@ -14,12 +14,11 @@ Códigos e atividades práticas da disciplina **S05 – Interação Homem-Máqui
 
 ```
 s05-interacao-homem-maquina/
-├── laboratório/
-│   ├── questionários/        # questionários 01 a 03 (em Markdown)
-│   └── tarefas/              # tarefas 01 e 02 (em Markdown)
+├── questionários/    # questionários 01 a 03 (em Markdown)
+├── tarefas/          # tarefas 01 e 02 (em Markdown)
 ├── projeto/
-│   ├── reserva_armario/      # atividade de HTML, CSS & JS
-│   └── projeto_final/        # projeto final: Reserva de Salas de Estudo
+│   ├── reserva_armario/  # atividade de HTML, CSS & JS
+│   └── projeto_final/    # projeto final: Reserva de Salas de Estudo
 └── readme.md
 ```
 
@@ -27,8 +26,8 @@ s05-interacao-homem-maquina/
 
 ### 📝 Laboratório
 
-- **[Questionários](<laboratório/questionários>)**: 01 – Introdução ao Front-End, 02 – HTML, CSS & JS (Parte 1) e 03 – HTML, CSS & JS (Parte 2).
-- **[Tarefas](laboratório/tarefas)**: 01 – Setup (CodePen ou VS Code) e 02 – HTML, CSS e JS (Parte 3).
+- **[Questionários](<questionários>)**: 01 – Introdução ao Front-End, 02 – HTML, CSS & JS (Parte 1) e 03 – HTML, CSS & JS (Parte 2).
+- **[Tarefas](tarefas)**: 01 – Setup (CodePen ou VS Code) e 02 – HTML, CSS e JS (Parte 3).
 
 ### 🔐 Reserva de Armário
 
