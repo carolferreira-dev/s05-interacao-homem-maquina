@@ -15,7 +15,7 @@ Códigos e atividades práticas da disciplina **S05 – Interação Homem-Máqui
 ```
 s05-interacao-homem-maquina/
 ├── questionários/    # questionários 01 a 06 e extras da revisão (em Markdown)
-├── tarefas/          # tarefas 01 e 02
+├── tarefas/          # tarefas 01 e 02 e fundamentos de react (aula 01)
 ├── revisão/          # questionário de revisão para a 1ª prova (em Markdown)
 ├── projeto/
 │   ├── reserva_armario/  # atividade de HTML, CSS & JS
@@ -28,7 +28,7 @@ s05-interacao-homem-maquina/
 ### 📝 Laboratório
 
 - **[Questionários](<questionários>)**: 01 – Introdução ao Front-End, 02 e 03 – HTML, CSS & JS (Partes 1 e 2), 04 – Cores, Tipografia e Ícones, 05 – Imagens e Vídeos e 06 – Interação e Animação, além das questões de Grid e Responsividade e das questões extras sobre animação, vindas da revisão.
-- **[Tarefas](tarefas)**: 01 – Setup (CodePen ou VS Code) e 02 – HTML, CSS e JS (Parte 3).
+- **[Tarefas](tarefas)**: 01 – Setup (CodePen ou VS Code), 02 – HTML, CSS e JS (Parte 3) e Fundamentos de React (aula 01, com as anotações).
 - **[Revisão](<revisão>)**: questionário de revisão para a 1ª prova.
 
 ### 🔐 Reserva de Armário
