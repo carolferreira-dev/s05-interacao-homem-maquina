@@ -1,0 +1,48 @@
+:host {
+  --frequencia: #126ae2;
+  --nota: #126ae2;
+  --prova: #126ae2;
+}
+
+.titulo_aula {
+  font-weight: bold; /* negrito */
+  font-size: 15px; /* tamanho da letra */
+  padding: 0 5px; /* espaço interno */
+  white-space: nowrap; /* impede de quebrar o textp */
+  overflow: hidden; /* esconde o que passar da largura */
+  text-overflow: ellipsis; /* troca o excesso por ... */
+}
+
+/* coloca etiqueta de faltas e nota lado a lado */
+.lables {
+  display: flex;
+}
+
+/* lable - aplique em todos */
+.lable-prova,
+.lable-frequencia,
+.lable-nota {
+  background-color: var(--prova); /* pintar o fundo */
+  padding: 7px 15px;
+  margin-bottom: 10px;
+  border-radius: 500px; /* arrendonda as pontas */
+  text-align: center;
+  margin-right: 10px;
+}
+
+.lable-frequencia {
+  background-color: var(--frequencia);
+}
+
+.lable-nota {
+  background-color: var(--nota);
+}
+
+/* etiqueta pequena e branca */
+.p_lable {
+  font-size: 13px;
+  color: white;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
